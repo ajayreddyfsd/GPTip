@@ -17,3 +17,7 @@ This experiment helps refine prompt engineering strategies and could improve you
 
 ## conclusion
 The experiment demonstrates that higher tip amounts improve GPT's responses, making them more detailed, clear, and thoughtful. Lower tips result in more basic and not so understandable answers. This highlights the potential for prompt engineering to optimize AI output based on tip settings.
+
+![Output1](https://github.com/user-attachments/assets/3e369ef8-bde3-46e7-b3b3-3f99316b79a2)
+
+![Output2](https://github.com/user-attachments/assets/8da49456-7be8-4707-9c1d-ce8f8d7b66b1)
