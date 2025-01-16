@@ -1,10 +1,19 @@
-To get started, set your OPENAI_API_KEY environment variable, or other required keys for the providers you selected.
+# GPTip: Does Tipping Improve GPT Responses?
 
-Next, edit promptfooconfig.yaml.
+This project investigates the effect of tip amounts on the quality and clarity of GPT responses. Through a series of tests using **promptfoo**, I compared responses with different tip amounts to see if higher tips lead to better AI answers.
 
-Then run:
-```
-promptfoo eval
-```
+## Features
+- Compare GPT's performance with and without tips in the prompt.
+- Simple experimentation setup using **promptfoo**.
+- Explore how tipping influences GPT's "thinking" and response depth.
 
-Afterwards, you can view the results by running `promptfoo view`
+## How It Works
+1. Run prompts with varying tip amounts (or no tip at all).
+2. Analyze the responses for clarity, depth, and relevance.
+3. Draw conclusions on whether higher tips lead to better results.
+
+## Why It Matters
+This experiment helps refine prompt engineering strategies and could improve your approach to working with AI.
+
+##conclusion
+The experiment demonstrates that higher tip amounts improve GPT's responses, making them more detailed, clear, and thoughtful. Lower tips result in more basic and not so understandable answers. This highlights the potential for prompt engineering to optimize AI output based on tip settings.
