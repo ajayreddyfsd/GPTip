@@ -2,11 +2,6 @@
 
 This project investigates the effect of tip amounts on the quality and clarity of GPT responses. Through a series of tests using **promptfoo**, I compared responses with different tip amounts to see if higher tips lead to better AI answers.
 
-## Features
-- Compare GPT's performance with and without tips in the prompt.
-- Simple experimentation setup using **promptfoo**.
-- Explore how tipping influences GPT's "thinking" and response depth.
-
 ## How It Works
 1. Run prompts with varying tip amounts (or no tip at all).
 2. Analyze the responses for clarity, depth, and relevance.
