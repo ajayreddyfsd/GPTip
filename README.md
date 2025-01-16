@@ -15,5 +15,5 @@ This project investigates the effect of tip amounts on the quality and clarity o
 ## Why It Matters
 This experiment helps refine prompt engineering strategies and could improve your approach to working with AI.
 
-##conclusion
+## conclusion
 The experiment demonstrates that higher tip amounts improve GPT's responses, making them more detailed, clear, and thoughtful. Lower tips result in more basic and not so understandable answers. This highlights the potential for prompt engineering to optimize AI output based on tip settings.
